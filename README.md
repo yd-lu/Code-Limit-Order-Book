@@ -45,7 +45,8 @@ engine.on_update(Order(\"AAPL\", Side.Bid, 101.0, 20, refnum=999))  # Rejected
 ```
 
 
-Installation
+### Installation
+
 This project uses only standard Python libraries.
 
 ```bash
